@@ -1,0 +1,22 @@
+{
+  "slices": [
+    {
+      "vDU": 5,
+      "type": "URLLC",
+      "max_delay": 1,
+      "bw_slice": 1,
+      "UE revenue": 1,
+      "requirements": "(1024, 1024000)",
+      "n_flows": 100
+    },
+    {
+      "vDU": 6,
+      "type": "URLLC",
+      "max_delay": 1,
+      "bw_slice": 1,
+      "UE revenue": 1,
+      "requirements": "(1024, 1024000)",
+      "n_flows": 100
+    }
+  ]
+}

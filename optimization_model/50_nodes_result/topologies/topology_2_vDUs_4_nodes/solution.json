@@ -1,0 +1,1 @@
+{"solution": {"vDU6": {"vRAN_path": [0, 1, 2, 4, 5, 6], "VNC": 2, "nodes": {"2": 0.44, "3": 1.0, "5": 0.5}, "admitted_flows": 12}, "vDU7": {"vRAN_path": [0, 1, 2, 3, 5, 7], "VNC": 2, "nodes": {"2": 0.56, "4": 0.98, "5": 0.5}, "admitted_flows": 13}}}

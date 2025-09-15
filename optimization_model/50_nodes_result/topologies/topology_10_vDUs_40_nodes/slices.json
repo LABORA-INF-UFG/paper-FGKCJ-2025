@@ -1,0 +1,134 @@
+{
+  "slices": [
+    {
+      "vDU": 10,
+      "type": "URLLC",
+      "max_delay": 1,
+      "UE revenue": 0.118,
+      "requirements": "(1024, 1024000)",
+      "n_flows": 80
+    },
+    {
+      "vDU": 10,
+      "type": "eMBB",
+      "requirement": "29201"
+    },
+    {
+      "vDU": 11,
+      "type": "URLLC",
+      "max_delay": 1,
+      "UE revenue": 0.118,
+      "requirements": "(1024, 1024000)",
+      "n_flows": 80
+    },
+    {
+      "vDU": 11,
+      "type": "eMBB",
+      "requirement": "29201"
+    },
+    {
+      "vDU": 20,
+      "type": "URLLC",
+      "max_delay": 1,
+      "UE revenue": 0.118,
+      "requirements": "(1024, 1024000)",
+      "n_flows": 80
+    },
+    {
+      "vDU": 20,
+      "type": "eMBB",
+      "requirement": "29201"
+    },
+    {
+      "vDU": 21,
+      "type": "URLLC",
+      "max_delay": 1,
+      "UE revenue": 0.118,
+      "requirements": "(1024, 1024000)",
+      "n_flows": 80
+    },
+    {
+      "vDU": 21,
+      "type": "eMBB",
+      "requirement": "29201"
+    },
+    {
+      "vDU": 26,
+      "type": "URLLC",
+      "max_delay": 1,
+      "UE revenue": 0.118,
+      "requirements": "(1024, 1024000)",
+      "n_flows": 80
+    },
+    {
+      "vDU": 26,
+      "type": "eMBB",
+      "requirement": "29201"
+    },
+    {
+      "vDU": 27,
+      "type": "URLLC",
+      "max_delay": 1,
+      "UE revenue": 0.118,
+      "requirements": "(1024, 1024000)",
+      "n_flows": 80
+    },
+    {
+      "vDU": 27,
+      "type": "eMBB",
+      "requirement": "29201"
+    },
+    {
+      "vDU": 33,
+      "type": "URLLC",
+      "max_delay": 1,
+      "UE revenue": 0.118,
+      "requirements": "(1024, 1024000)",
+      "n_flows": 80
+    },
+    {
+      "vDU": 33,
+      "type": "eMBB",
+      "requirement": "29201"
+    },
+    {
+      "vDU": 34,
+      "type": "URLLC",
+      "max_delay": 1,
+      "UE revenue": 0.118,
+      "requirements": "(1024, 1024000)",
+      "n_flows": 80
+    },
+    {
+      "vDU": 34,
+      "type": "eMBB",
+      "requirement": "29201"
+    },
+    {
+      "vDU": 38,
+      "type": "URLLC",
+      "max_delay": 1,
+      "UE revenue": 0.118,
+      "requirements": "(1024, 1024000)",
+      "n_flows": 80
+    },
+    {
+      "vDU": 38,
+      "type": "eMBB",
+      "requirement": "29201"
+    },
+    {
+      "vDU": 39,
+      "type": "URLLC",
+      "max_delay": 1,
+      "UE revenue": 0.118,
+      "requirements": "(1024, 1024000)",
+      "n_flows": 80
+    },
+    {
+      "vDU": 39,
+      "type": "eMBB",
+      "requirement": "29201"
+    }
+  ]
+}

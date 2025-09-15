@@ -1,0 +1,108 @@
+{
+  "slices": [
+    {
+      "vDU": 10,
+      "type": "URLLC",
+      "max_delay": 1,
+      "UE revenue": 0.118,
+      "requirements": "(1024, 1024000)",
+      "n_flows": 80
+    },
+    {
+      "vDU": 10,
+      "type": "eMBB",
+      "requirement": "29201"
+    },
+    {
+      "vDU": 11,
+      "type": "URLLC",
+      "max_delay": 1,
+      "UE revenue": 0.118,
+      "requirements": "(1024, 1024000)",
+      "n_flows": 80
+    },
+    {
+      "vDU": 11,
+      "type": "eMBB",
+      "requirement": "29201"
+    },
+    {
+      "vDU": 16,
+      "type": "URLLC",
+      "max_delay": 1,
+      "UE revenue": 0.118,
+      "requirements": "(1024, 1024000)",
+      "n_flows": 80
+    },
+    {
+      "vDU": 16,
+      "type": "eMBB",
+      "requirement": "29201"
+    },
+    {
+      "vDU": 17,
+      "type": "URLLC",
+      "max_delay": 1,
+      "UE revenue": 0.118,
+      "requirements": "(1024, 1024000)",
+      "n_flows": 80
+    },
+    {
+      "vDU": 17,
+      "type": "eMBB",
+      "requirement": "29201"
+    },
+    {
+      "vDU": 23,
+      "type": "URLLC",
+      "max_delay": 1,
+      "UE revenue": 0.118,
+      "requirements": "(1024, 1024000)",
+      "n_flows": 80
+    },
+    {
+      "vDU": 23,
+      "type": "eMBB",
+      "requirement": "29201"
+    },
+    {
+      "vDU": 24,
+      "type": "URLLC",
+      "max_delay": 1,
+      "UE revenue": 0.118,
+      "requirements": "(1024, 1024000)",
+      "n_flows": 80
+    },
+    {
+      "vDU": 24,
+      "type": "eMBB",
+      "requirement": "29201"
+    },
+    {
+      "vDU": 28,
+      "type": "URLLC",
+      "max_delay": 1,
+      "UE revenue": 0.118,
+      "requirements": "(1024, 1024000)",
+      "n_flows": 80
+    },
+    {
+      "vDU": 28,
+      "type": "eMBB",
+      "requirement": "29201"
+    },
+    {
+      "vDU": 29,
+      "type": "URLLC",
+      "max_delay": 1,
+      "UE revenue": 0.118,
+      "requirements": "(1024, 1024000)",
+      "n_flows": 80
+    },
+    {
+      "vDU": 29,
+      "type": "eMBB",
+      "requirement": "29201"
+    }
+  ]
+}

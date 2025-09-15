@@ -1,0 +1,160 @@
+{
+  "slices": [
+    {
+      "vDU": 10,
+      "type": "URLLC",
+      "max_delay": 1,
+      "UE revenue": 0.118,
+      "requirements": "(1024, 1024000)",
+      "n_flows": 80
+    },
+    {
+      "vDU": 10,
+      "type": "eMBB",
+      "requirement": "29201"
+    },
+    {
+      "vDU": 11,
+      "type": "URLLC",
+      "max_delay": 1,
+      "UE revenue": 0.118,
+      "requirements": "(1024, 1024000)",
+      "n_flows": 80
+    },
+    {
+      "vDU": 11,
+      "type": "eMBB",
+      "requirement": "29201"
+    },
+    {
+      "vDU": 20,
+      "type": "URLLC",
+      "max_delay": 1,
+      "UE revenue": 0.118,
+      "requirements": "(1024, 1024000)",
+      "n_flows": 80
+    },
+    {
+      "vDU": 20,
+      "type": "eMBB",
+      "requirement": "29201"
+    },
+    {
+      "vDU": 21,
+      "type": "URLLC",
+      "max_delay": 1,
+      "UE revenue": 0.118,
+      "requirements": "(1024, 1024000)",
+      "n_flows": 80
+    },
+    {
+      "vDU": 21,
+      "type": "eMBB",
+      "requirement": "29201"
+    },
+    {
+      "vDU": 26,
+      "type": "URLLC",
+      "max_delay": 1,
+      "UE revenue": 0.118,
+      "requirements": "(1024, 1024000)",
+      "n_flows": 80
+    },
+    {
+      "vDU": 26,
+      "type": "eMBB",
+      "requirement": "29201"
+    },
+    {
+      "vDU": 27,
+      "type": "URLLC",
+      "max_delay": 1,
+      "UE revenue": 0.118,
+      "requirements": "(1024, 1024000)",
+      "n_flows": 80
+    },
+    {
+      "vDU": 27,
+      "type": "eMBB",
+      "requirement": "29201"
+    },
+    {
+      "vDU": 33,
+      "type": "URLLC",
+      "max_delay": 1,
+      "UE revenue": 0.118,
+      "requirements": "(1024, 1024000)",
+      "n_flows": 80
+    },
+    {
+      "vDU": 33,
+      "type": "eMBB",
+      "requirement": "29201"
+    },
+    {
+      "vDU": 34,
+      "type": "URLLC",
+      "max_delay": 1,
+      "UE revenue": 0.118,
+      "requirements": "(1024, 1024000)",
+      "n_flows": 80
+    },
+    {
+      "vDU": 34,
+      "type": "eMBB",
+      "requirement": "29201"
+    },
+    {
+      "vDU": 42,
+      "type": "URLLC",
+      "max_delay": 1,
+      "UE revenue": 0.118,
+      "requirements": "(1024, 1024000)",
+      "n_flows": 80
+    },
+    {
+      "vDU": 42,
+      "type": "eMBB",
+      "requirement": "29201"
+    },
+    {
+      "vDU": 43,
+      "type": "URLLC",
+      "max_delay": 1,
+      "UE revenue": 0.118,
+      "requirements": "(1024, 1024000)",
+      "n_flows": 80
+    },
+    {
+      "vDU": 43,
+      "type": "eMBB",
+      "requirement": "29201"
+    },
+    {
+      "vDU": 48,
+      "type": "URLLC",
+      "max_delay": 1,
+      "UE revenue": 0.118,
+      "requirements": "(1024, 1024000)",
+      "n_flows": 80
+    },
+    {
+      "vDU": 48,
+      "type": "eMBB",
+      "requirement": "29201"
+    },
+    {
+      "vDU": 49,
+      "type": "URLLC",
+      "max_delay": 1,
+      "UE revenue": 0.118,
+      "requirements": "(1024, 1024000)",
+      "n_flows": 80
+    },
+    {
+      "vDU": 49,
+      "type": "eMBB",
+      "requirement": "29201"
+    }
+  ]
+}

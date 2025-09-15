@@ -1,0 +1,116 @@
+{
+  "slices": [
+    {
+      "vDU": 5,
+      "type": "URLLC",
+      "max_delay": 0.001,
+      "bw_slice": 1,
+      "UE revenue": 0.125,
+      "requirements": "(1024, 1024000)",
+      "n_flows": 80
+    },
+    {
+      "vDU": 5,
+      "type": "eMBB",
+      "requirement": "28480"
+    },
+    {
+      "vDU": 6,
+      "type": "URLLC",
+      "max_delay": 0.001,
+      "bw_slice": 1,
+      "UE revenue": 0.125,
+      "requirements": "(1024, 1024000)",
+      "n_flows": 80
+    },
+    {
+      "vDU": 6,
+      "type": "eMBB",
+      "requirement": "28480"
+    },
+    {
+      "vDU": 9,
+      "type": "URLLC",
+      "max_delay": 0.001,
+      "bw_slice": 1,
+      "UE revenue": 0.125,
+      "requirements": "(1024, 1024000)",
+      "n_flows": 80
+    },
+    {
+      "vDU": 9,
+      "type": "eMBB",
+      "requirement": "28480"
+    },
+    {
+      "vDU": 10,
+      "type": "URLLC",
+      "max_delay": 0.001,
+      "bw_slice": 1,
+      "UE revenue": 0.125,
+      "requirements": "(1024, 1024000)",
+      "n_flows": 80
+    },
+    {
+      "vDU": 10,
+      "type": "eMBB",
+      "requirement": "28480"
+    },
+    {
+      "vDU": 13,
+      "type": "URLLC",
+      "max_delay": 0.001,
+      "bw_slice": 1,
+      "UE revenue": 0.125,
+      "requirements": "(1024, 1024000)",
+      "n_flows": 80
+    },
+    {
+      "vDU": 13,
+      "type": "eMBB",
+      "requirement": "28480"
+    },
+    {
+      "vDU": 14,
+      "type": "URLLC",
+      "max_delay": 0.001,
+      "bw_slice": 1,
+      "UE revenue": 0.125,
+      "requirements": "(1024, 1024000)",
+      "n_flows": 80
+    },
+    {
+      "vDU": 14,
+      "type": "eMBB",
+      "requirement": "28480"
+    },
+    {
+      "vDU": 17,
+      "type": "URLLC",
+      "max_delay": 0.001,
+      "bw_slice": 1,
+      "UE revenue": 0.125,
+      "requirements": "(1024, 1024000)",
+      "n_flows": 80
+    },
+    {
+      "vDU": 17,
+      "type": "eMBB",
+      "requirement": "28480"
+    },
+    {
+      "vDU": 18,
+      "type": "URLLC",
+      "max_delay": 0.001,
+      "bw_slice": 1,
+      "UE revenue": 0.125,
+      "requirements": "(1024, 1024000)",
+      "n_flows": 80
+    },
+    {
+      "vDU": 18,
+      "type": "eMBB",
+      "requirement": "28480"
+    }
+  ]
+}
