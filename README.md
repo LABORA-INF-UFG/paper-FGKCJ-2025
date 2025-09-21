@@ -46,7 +46,7 @@ The formulation integrates **Network Calculus** to compute deterministic delay b
 ## 📌 Figures  
 
 ### Figure 9 – Scalability (Cost, WAFC, OF)  
-![Figure 9 - Scalability](figs/larger_topologies_fig.png)  
+![Figure 9 - Scalability](figs/larger_topologies_diagrams.png)  
 
 ### Topology Example – Simulated Scenarios  
 ![Topologies](figs/larger_topologies_results.png)  
