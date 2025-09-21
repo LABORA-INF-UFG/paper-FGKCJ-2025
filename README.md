@@ -4,7 +4,7 @@ This repository contains additional data from the paper "**Optimal Resource Allo
 
 ---
 
-## 📖 Introduction  
+##  Introduction  
 This repository contains the code and experiments related to the article *"Optimal Resource Allocation with Delay Guarantees for Network Slicing in Disaggregated RAN"*.  
 
 The work proposes an optimization-based formulation that jointly considers:  
@@ -19,7 +19,7 @@ The formulation integrates **Network Calculus** to compute deterministic delay b
 
 ---
 
-## 📊 Key Results  
+## Key Results  
 
 ### 🔹 Latency vs Cost Trade-off  
 - Different functional splits exhibit clear trade-offs:  
@@ -43,7 +43,7 @@ The formulation integrates **Network Calculus** to compute deterministic delay b
 
 ---
 
-## 📌 Figures  
+## Figures  
 
 ### Figure 5 – Main Results (Cost, WAFC, OF)  
 ![Figure 5 - Main Results](figs/new_results.png)  
@@ -58,16 +58,15 @@ The formulation integrates **Network Calculus** to compute deterministic delay b
 
 ---
 
-## ⚙️ Tools Used  
+## Tools Used  
 - **IBM CPLEX**: to solve the optimization problem.  
 - **DiscoDNC**: to calculate delay bounds via Network Calculus.  
 - **OMNeT++/INET**: event-driven network simulations.  
 
 ---
 
-## 🚀 How to Reproduce  
+## How to Reproduce  
 - The code and scripts to reproduce the experiments are included in this repository.  
-- See the `/src` folder for examples of topology setup and simulation parameters.  
 - Key results from Section IV of the article can be replicated by configuring the experiments accordingly.  
 
 ---
