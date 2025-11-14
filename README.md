@@ -22,7 +22,7 @@ To solve the optimization problem, we implement the proposed formulation using t
 
 Since Equation (23) contains multilinear and rational terms, the resulting mathematical program is a Non-convex Mixed-Integer Nonlinear Program (MINLP), which cannot be solved directly by the CP Optimizer.
 Therefore, for the implementation we adopt a conservative (worst-case) latency approximation: every traffic flow is assigned an upper-bound latency estimate and the model is solved with these conservative values. 
-This guarantees that any solution found by the CP Optimizer satisfies the original delay constraints under the assumed worst-case latency scenario (see, [1] https://www.sciencedirect.com/science/article/pii/S0140366420318570?via%3Dihub).
+This guarantees that any solution found by the CP Optimizer satisfies the original delay constraints under the assumed worst-case latency scenario (see, [1](https://www.sciencedirect.com/science/article/pii/S0140366420318570?via%3Dihub).
 
 ---
 
