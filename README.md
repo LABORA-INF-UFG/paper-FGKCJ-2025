@@ -15,7 +15,14 @@ The work proposes an optimization-based formulation that jointly considers:
 
 The formulation integrates **Network Calculus** to compute deterministic delay bounds, exploring the **Flexible Functional Split (FFS)** paradigm while addressing the trade-off between:  
 - Maximizing the number of flows that meet SLA requirements.  
-- Minimizing deployment and operational costs of the disaggregated RAN.  
+- Minimizing deployment and operational costs of the disaggregated RAN.
+
+To solve the optimization problem, we implement the proposed formulation using the 
+[IBM CPLEX CP Optimizer module](https://www.ibm.com/products/ilog-cplex-optimization-studio/cplex-cp-optimizer).
+
+Since Equation (23) contains multilinear and rational terms, the resulting mathematical program is a Non-convex Mixed-Integer Nonlinear Program (MINLP), which cannot be solved directly by the CP Optimizer.
+Therefore, for the implementation we adopt a conservative (worst-case) latency approximation: every traffic flow is assigned an upper-bound latency estimate and the model is solved with these conservative values. 
+This guarantees that any solution found by the CP Optimizer satisfies the original delay constraints under the assumed worst-case latency scenario (see, [1] https://www.sciencedirect.com/science/article/pii/S0140366420318570?via%3Dihub).
 
 ---
 
